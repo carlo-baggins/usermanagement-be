@@ -1,4 +1,4 @@
-package net.carlo.be.dto;
+package net.carlo.usermanagement_be.dto;
 
 public class UserDto {
     private final int id;
